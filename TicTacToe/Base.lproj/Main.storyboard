@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="c6n-ms-Kbn">
             <objects>
-                <viewController id="Ztx-Fj-hYK" sceneMemberID="viewController">
+                <viewController id="Ztx-Fj-hYK" customClass="ViewController" customModule="TicTacToe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="s57-hj-QFQ"/>
                         <viewControllerLayoutGuide type="bottom" id="28r-G7-4hM"/>
